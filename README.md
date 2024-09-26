@@ -3,8 +3,6 @@
 
 
 - 👋 Hi, I’m @AbhishekPoojary
-- 👀 I’m interested in ROMS
-- 🌱 I’m currently learning to build ROM
 
 
 <!---
