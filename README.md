@@ -1,11 +1,46 @@
-[![An image of @abhishekpoojary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekpoojary)](https://holopin.io/@abhishekpoojary)
+<h1 align="center">Hi, I'm Abhishek S Poojary 👋</h1>
+
+---
+
+## 🌱 What I’m Learning  
+<p>
+  Frontend: HTML, CSS, JavaScript, React <br>
+  Backend: Node.js, Express.js <br>
+  Database: MongoDB, SQL
+</p>
+
+---
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://github.com/AbhishekPoojary" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-s-poojary-a8385a296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://holopin.io/@abhishekpoojary" target="_blank">
+    <img src="https://img.shields.io/badge/Holopin-5CDB95?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin"/>
+  </a>
+</p>
+
+---
+
+## 🎨 Holopin Badges  
+<p align="center">
+  <img src="https://holopin.me/abhishekpoojary" alt="Holopin Badge Board"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekPoojary&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.vercel.app?user=AbhishekPoojary&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPoojary&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 
-
-- 👋 Hi, I’m @AbhishekPoojary
-
-
-<!---
-AbhishekPoojary/AbhishekPoojary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
