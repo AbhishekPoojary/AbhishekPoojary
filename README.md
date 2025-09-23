@@ -40,4 +40,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPoojary&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=AbhishekPoojary)
+![](https://komarev.com/ghpvc/?username=AbhishekPoojary).
