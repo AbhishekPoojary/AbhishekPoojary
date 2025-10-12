@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm Abhishek S Poojary 👋</h1>
+<h1 align="center">
+  Hi, I'm Abhishek S Poojary 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="waving hand">
+</h1>
 
 ---
 
 ## 🌱 What I’m Learning  
 <p>
-  Frontend: HTML, CSS, JavaScript, React <br>
-  Backend: Node.js, Express.js <br>
-  Database: MongoDB, SQL
+  <b>Frontend:</b> HTML, CSS, JavaScript, React <br>
+  <b>Backend:</b> Node.js, Express.js <br>
+  <b>Database:</b> MongoDB, SQL
 </p>
 
 ---
@@ -25,7 +28,9 @@
 
 ## 🎨 Holopin Badges  
 <p align="center">
-  [![Hackoctober - holopins badges](https://holopin.me/abhishekpoojary)](https://holopin.io/@abhishekpoojary)
+  <a href="https://holopin.io/@abhishekpoojary">
+    <img src="https://holopin.me/abhishekpoojary" alt="Holopin Badges"/>
+  </a>
 </p>
 
 ---
@@ -33,14 +38,13 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhishekPoojary&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.vercel.app?user=AbhishekPoojary&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=AbhishekPoojary&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPoojary&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=AbhishekPoojary)
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhishekPoojary&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
