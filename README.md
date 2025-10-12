@@ -25,7 +25,7 @@
 
 ## 🎨 Holopin Badges  
 <p align="center">
-  <img src="https://holopin.me/abhishekpoojary" alt="Holopin Badge Board"/>
+  [![Hackoctober - holopins badges](https://holopin.me/abhishekpoojary)](https://holopin.io/@abhishekpoojary)
 </p>
 
 ---
