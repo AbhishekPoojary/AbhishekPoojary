@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/AbhishekPoojary/AbhishekPoojary/blob/main/Animated%20Hello.gif" width="35" height="33.98" alt="Hi GIF">
  , I'm Abhishek S Poojary 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="waving hand">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/>
   <br><br>
 </h1>
 
