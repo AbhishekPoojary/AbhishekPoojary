@@ -40,7 +40,8 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhishekPoojary&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=AbhishekPoojary&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <br>
+ <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=AbhishekPoojary&theme=tokyonight&hide_border=true&border_radius=5.5&card_height=170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
